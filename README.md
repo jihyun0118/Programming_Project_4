@@ -37,7 +37,7 @@ IDE used – Eclipse / Compiler used – JDT / Programming language - Java
 Instructions to run code:
 
   1.	Open the .java programs on Eclipse (Interweave.java)
-  2.	Input integer value for length of array to be generated
+  2.	Input appropriate X, Y, and S strings. (They are left as // comments under main)
   3.	click on the Run button for Interweave.java
   4.	Console will determine Interweaving as a Boolean, and output appropriate parsings.
 
