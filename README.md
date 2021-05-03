@@ -6,11 +6,15 @@
 >
 >     Test cases:
 >     1. Paragraph 4: X = 101 Y = 0, S = {100010101}
->        Paragraph 4 aims to test out repetitions within the interweaving. No noise is assumed to be present. 
+>        Paragraph 4 aims to test out repetitions within the interweaving. 
+>        No noise is assumed to be present. 
 >     2. Test Case 2A: X = 101 Y = 010 S1 = 101|010|101|010|101|010|101
->        Test Case 2A aims to test whether there are interweavings of X|Y|X|Y within string S. No noise is assumed to be present.
->     3. Test Case 2B: X = 101 Y = 010 S2 = {0011000|101|010|101|010|101|11}. Front and tail noise is assumed to be present.
->     4. Test Case 2C: X = 101 Y = 010 S3 = {1001100110011001}. No noise is assumed to be present.
+>        Test Case 2A aims to test whether there are interweavings of X|Y|X|Y within string S. 
+>        No noise is assumed to be present.
+>     3. Test Case 2B: X = 101 Y = 010 S2 = {0011000|101|010|101|010|101|11}. 
+>        Front and tail noise is assumed to be present.
+>     4. Test Case 2C: X = 101 Y = 010 S3 = {1001100110011001}. 
+>        No noise is assumed to be present.
 > 
 
 ## Project Requirements
@@ -38,7 +42,7 @@ Instructions to run code:
   4.	Console will determine Interweaving as a Boolean, and output appropriate parsings.
 
 ## List of Files in Submission:
-Programming-Project-3 includes 
+Programming-Project-4 includes 
 1. One .java file (Interweave.java)
 
 
